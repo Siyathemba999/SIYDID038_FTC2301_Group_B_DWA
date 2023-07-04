@@ -145,7 +145,7 @@ footer{
 
    </dialog>
  <footer>
-       this is a test project for learning javascript
+       This is a test project for learning javascript inspired by TallyApp
 </footer>
 
     `;
